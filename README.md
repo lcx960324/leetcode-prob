@@ -1,4 +1,8 @@
 # LeetCode Problem List
+> Abbr. Note:
+> * WA: Wrong Answer
+> * TLE: Time Limit Exceeded
+> * ASR: Another Solution Required
 ## Algorithms
 | # | Title | Difficulty | Tag |
 | :---: | :---: | :---: | :---: |
@@ -11,4 +15,4 @@
 | 007 | Reverse Integer | Easy | - |
 | 008 | String to Integer (atoi) | Medium | - |
 | 009 | Palindrome Number | Easy | - |
-| 010 | Regular Expression | Hard | Need Another Way |
+| 010 | Regular Expression | Hard | ASR |
