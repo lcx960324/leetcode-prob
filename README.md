@@ -19,4 +19,5 @@
 | 012 | Integer to Roman | Medium | - |
 | 013 | Roman to Integer | Easy | - |
 | 014 | Longest Common Prefix | Easy | - |
-| 015 | 3Sum | Hard | - |
+| 015 | 3Sum | Medium | - |
+| 016 | 3Sum Closest | Medium | - |
